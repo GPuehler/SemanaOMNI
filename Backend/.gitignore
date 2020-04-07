@@ -1,0 +1,2 @@
+#Arquivo serve para dizer quais pastas não serão enviadas para o GitHub
+node_modules
